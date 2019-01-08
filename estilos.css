@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: beige!important;
+}
+
+div.row {
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
+div.bg-primary{
+    background-color: blueviolet!important;
+}
